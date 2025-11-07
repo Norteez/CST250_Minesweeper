@@ -1,0 +1,11 @@
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/bin/Debug/net8.0/MinesweeperClassLibrary.deps.json
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/bin/Debug/net8.0/MinesweeperClassLibrary.dll
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/bin/Debug/net8.0/MinesweeperClassLibrary.pdb
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/obj/Debug/net8.0/MinesweeperClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/obj/Debug/net8.0/MinesweeperClassLibrary.AssemblyInfoInputs.cache
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/obj/Debug/net8.0/MinesweeperClassLibrary.AssemblyInfo.cs
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/obj/Debug/net8.0/MinesweeperClassLibrary.csproj.CoreCompileInputs.cache
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/obj/Debug/net8.0/MinesweeperClassLibrary.dll
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/obj/Debug/net8.0/refint/MinesweeperClassLibrary.dll
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/obj/Debug/net8.0/MinesweeperClassLibrary.pdb
+/Users/orteez/CST250_Minesweeper/MinesweeperClassLibrary/obj/Debug/net8.0/ref/MinesweeperClassLibrary.dll
