@@ -1,0 +1,40 @@
+# Build and output folders
+bin/
+obj/
+Debug/
+Release/
+[Bb]uild/
+[Ll]ogs/
+
+# Visual Studio / Cursor settings
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*.cache
+
+# Auto-generated files
+*.dll
+*.exe
+*.pdb
